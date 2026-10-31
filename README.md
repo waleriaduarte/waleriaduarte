@@ -1,16 +1,26 @@
-## Hi there 👋
 
-<!--
-**waleriaduarte/waleriaduarte** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Olá, meu nome é Waléria =)
 
-Here are some ideas to get you started:
+Estudante de Ciência da Computação e designer, interessada em desenvolvimento de software, tecnologia e inovação. Gosto de explorar soluções criativas, desenvolver projetos e unir pensamento lógico à criatividade para transformar ideias em experiências funcionais.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## **📂 Projetos em destaque**
+
+### 🧮 Calculadora de orçamento
+
+Aplicação desenvolvida para auxiliar no controle e organização financeira.
+
+**Tecnologias:** Python
+
+[Ver repositório](https://github.com/waleriaduarte/calculadora-orcamento-python)
+
+---
+
+## **🚀 Minhas Skills**
+
+<div>
+  <img src="https://skillicons.dev/icons?i=html,css,js,python,git,github,vscode" />
+</div>
+
+---
